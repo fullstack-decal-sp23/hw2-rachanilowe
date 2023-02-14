@@ -1,1 +1,0 @@
-/fullstack-decal-sp23/hw2-rachanilowe
