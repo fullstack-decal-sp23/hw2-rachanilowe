@@ -1,1 +1,1 @@
-file:///Users/rachellowe/Desktop/cs198-99/hw2-rachanilowe/index.html
+/fullstack-decal-sp23/hw2-rachanilowe
